@@ -29,8 +29,7 @@ title: Component Selection Tim Desanti 105
 
 1. HC-SR505 PIR Motion Sensor Module
 
-    ![](<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/c1c46e83-8249-479f-b8fe-801d135dd95e" />
-)
+    ![](<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/c1c46e83-8249-479f-b8fe-801d135dd95e" />)
 
     * $1.95/each
     * [link to product](https://protosupplies.com/product/hc-sr505-mini-pir-motion-sensing-module/)
@@ -43,8 +42,7 @@ title: Component Selection Tim Desanti 105
 
 2. ALTA WIRELESS INFRARED MOTION SE
 
-    ![](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/7e0766e9-71f6-468e-9be0-febff88cc165" />
-)
+    ![](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/7e0766e9-71f6-468e-9be0-febff88cc165" />)
 
     * $116.60/each
     * [Link to product](https://www.digikey.com/en/products/detail/monnit-corporation/MNS2-9-W2-MS-IR/7776952)
@@ -57,8 +55,7 @@ title: Component Selection Tim Desanti 105
 
    3. MOTION DETECTION RADAR SWITCH
 
-    ![](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ee01a59e-437c-4ba2-a87f-a9aa27466038" />
-)
+    ![](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ee01a59e-437c-4ba2-a87f-a9aa27466038" />)
 
     * $50.26/each
     * [link to product]([[https://protosupplies.com/product/hc-sr505-mini-pir-motion-sensing-module/](https://www.digikey.com/en/products/detail/innosent-gmbh/80-00000450/13182472)](https://www.digikey.com/en/products/detail/innosent-gmbh/80-00000450/13182472))
