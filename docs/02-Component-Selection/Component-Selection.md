@@ -29,7 +29,7 @@ title: Component Selection Tim Desanti 105
 
 1. HC-SR505 PIR Motion Sensor Module
 
-    ![](![HCSR505-Motion-Sensor-2](https://github.com/user-attachments/assets/6aed399b-9c60-4f45-9eab-51a3d3c59d1e))
+    ![HCSR505-Motion-Sensor-2](https://github.com/user-attachments/assets/6aed399b-9c60-4f45-9eab-51a3d3c59d1e)
 
     * $1.95/each
     * [link to product](https://protosupplies.com/product/hc-sr505-mini-pir-motion-sensing-module/)
