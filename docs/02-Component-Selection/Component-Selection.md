@@ -72,3 +72,56 @@ title: Component Selection Tim Desanti 105
 **Choice:** Option 1: HC-SR505 PIR Motion Sensor Module
 
 **Rationale:** The data sheet provides a C code program that is Arduino compatible. Much more affordable and compact, they can be soldered or wired to a breadboard or circuit. The distance may be limited, but it is within reason if used inside.
+
+
+**Voltage regulator**
+
+1. IC REG BUCK BOOST ADJ 1.5A 8SOIC
+
+    ![](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/a96476c3-98e4-4bef-88f7-128437615a10" />
+)
+
+    * $0.29/each
+    * [link to product](https://www.digikey.com/en/products/detail/diodes-incorporated/AZ34063UMTR-G1/4471007)
+
+    | Pros                                      | Cons                                                             |
+    | ----------------------------------------- | ---------------------------------------------------------------- |
+    | Inexpensive                               | Requires external components and support circuitry for interface |
+    | minimum number of external components.    |                                                                  |
+    | built-in timer                            | uses more than 3V to operate
+
+
+
+2. IC REG LINEAR 5V 1.5A TO220
+
+    ![](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d6bb1a13-87c9-477a-9c0c-10387879de37" />
+)
+
+    * $0.50/each
+    * [link to product]([https://www.digikey.com/en/products/detail/diodes-incorporated/AZ34063UMTR-G1/4471007](https://www.digikey.com/en/products/detail/stmicroelectronics/L7805CV/585964))
+
+    | Pros                                      | Cons                                                             |
+    | ----------------------------------------- | ---------------------------------------------------------------- |
+    | Inexpensive                               | Requires external components and support circuitry for interface |
+    | minimum number of external components.    | requires a minimum voltage of 5V                                 |
+    | PCB layout available                      | 
+   
+
+
+
+
+
+
+3. IC LNR REG CTRLR 1OUT 8DIP
+
+    ![](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/efc4e4bd-cb04-4a98-a0c2-ba60caad03a8" />
+)
+
+    * $8.52/each
+    * [link to product](https://www.digikey.com/en/products/detail/analog-devices-inc/LT1575CN8-5-PBF/962848)
+
+    | Pros                                      | Cons                                                             |
+    | ----------------------------------------- | ---------------------------------------------------------------- |
+    | Low voltage drops                         | Requires external components and support circuitry for interface |
+    | accommodate any required microprocessor power supply voltage    | requires a minimum voltage of 5V                                 |
+    | PCB layout available                      | fixed output voltage
