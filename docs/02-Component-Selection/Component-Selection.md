@@ -98,7 +98,7 @@ title: Component Selection Tim Desanti 105
 )
 
     * $0.50/each
-    * [link to product]([https://www.digikey.com/en/products/detail/diodes-incorporated/AZ34063UMTR-G1/4471007](https://www.digikey.com/en/products/detail/stmicroelectronics/L7805CV/585964))
+    * [link to product]([https://www.digikey.com/en/products/detail/diodes-incorporated/AZ34063UMTR-G1/4471007](https://www.digikey.com/en/products/detail/stmicroelectronics/L7805CV/585964)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
