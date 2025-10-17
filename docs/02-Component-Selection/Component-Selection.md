@@ -43,7 +43,8 @@ title: Component Selection Tim Desanti 105
 
 2. ALTA WIRELESS INFRARED MOTION SE
 
-    ![](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/7e0766e9-71f6-468e-9be0-febff88cc165" />)
+    ![MFG_MNS2-9-W2-MS-IR_sml](https://github.com/user-attachments/assets/6a433689-7f32-4620-b8aa-2ef463277a93)
+
 
     * $116.60/each
     * [Link to product](https://www.digikey.com/en/products/detail/monnit-corporation/MNS2-9-W2-MS-IR/7776952)
@@ -56,10 +57,11 @@ title: Component Selection Tim Desanti 105
 
    3. MOTION DETECTION RADAR SWITCH
 
-    ![](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ee01a59e-437c-4ba2-a87f-a9aa27466038" />)
+    ![MFG_IMD-3000-Series_sml](https://github.com/user-attachments/assets/ff408c59-6127-48e3-9669-798a049a8b21)
+
 
     * $50.26/each
-    * [link to product]([[https://protosupplies.com/product/hc-sr505-mini-pir-motion-sensing-module/](https://www.digikey.com/en/products/detail/innosent-gmbh/80-00000450/13182472)](https://www.digikey.com/en/products/detail/innosent-gmbh/80-00000450/13182472))
+    * [link to product](https://www.digikey.com/en/products/detail/innosent-gmbh/80-00000450/13182472)]
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
@@ -76,8 +78,8 @@ title: Component Selection Tim Desanti 105
 
 1. IC REG BUCK BOOST ADJ 1.5A 8SOIC
 
-    ![](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/a96476c3-98e4-4bef-88f7-128437615a10" />
-)
+   ![31~8SOIC-3](https://github.com/user-attachments/assets/79a5d0b8-587e-43c4-ab3a-1e7bf68ff89e)
+
 
     * $0.29/each
     * [link to product](https://www.digikey.com/en/products/detail/diodes-incorporated/AZ34063UMTR-G1/4471007)
@@ -92,11 +94,11 @@ title: Component Selection Tim Desanti 105
 
 2. IC REG LINEAR 5V 1.5A TO220
 
-    ![](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d6bb1a13-87c9-477a-9c0c-10387879de37" />
-)
+    ![497~TO220-3TO220AB~~3_sml](https://github.com/user-attachments/assets/287a036d-0502-41a2-8303-bae58bfbc862)
+
 
     * $0.50/each
-    * [link to product]([https://www.digikey.com/en/products/detail/diodes-incorporated/AZ34063UMTR-G1/4471007](https://www.digikey.com/en/products/detail/stmicroelectronics/L7805CV/585964)
+    * [link to product](https://www.digikey.com/en/products/detail/stmicroelectronics/L7805CV/585964)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
@@ -112,8 +114,8 @@ title: Component Selection Tim Desanti 105
 
 3. IC LNR REG CTRLR 1OUT 8DIP
 
-    ![](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/efc4e4bd-cb04-4a98-a0c2-ba60caad03a8" />
-)
+   ![505~05-08-1510~N,N8~8_sml(200x200)](https://github.com/user-attachments/assets/1271e721-f886-48c1-9324-939288974429)
+
 
     * $8.52/each
     * [link to product](https://www.digikey.com/en/products/detail/analog-devices-inc/LT1575CN8-5-PBF/962848)
