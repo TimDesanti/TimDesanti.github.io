@@ -1,12 +1,12 @@
 ---
-title: Component Selection Tim Desanti
+title: Component Selection Tim Desanti 105
 ---
 
 ## Examples
 
 ### Style 1
 
-> This is the example found in the assignment, uses more html
+> This is the example found in the assignment, which uses more HTML
 
 *Table 1: Example component selection*
 
@@ -25,34 +25,50 @@ title: Component Selection Tim Desanti
 
 > Also acceptable, more markdown friendly
 
-**External Clock Module**
+**Motion Sensor**
 
-1. XC1259TR-ND surface mount crystal
+1. HC-SR505 PIR Motion Sensor Module
 
-    ![](image1.png)
+    ![](<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/c1c46e83-8249-479f-b8fe-801d135dd95e" />
+)
 
-    * $1/each
-    * [link to product](http://www.digikey.com/product-detail/en/ECS-40.3-S-5PX-TR/XC1259TR-ND/827366)
+    * $1.95/each
+    * [link to product](https://protosupplies.com/product/hc-sr505-mini-pir-motion-sensing-module/)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
     | Inexpensive                               | Requires external components and support circuitry for interface |
-    | Compatible with PSoC                      | Needs special PCB layout.                                        |
-    | Meets surface mount constraint of project |
+    | Senses Body heat within 9ft-12ft          | Needs special PCB layout.                                        |
+    | Uses very low power                       | 
 
-1. CTX936TR-ND surface mount oscillator
+2. ALTA WIRELESS INFRARED MOTION SE
 
-    ![](image3.png)
+    ![](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/7e0766e9-71f6-468e-9be0-febff88cc165" />
+)
 
-    * $1/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+    * $116.60/each
+    * [Link to product](https://www.digikey.com/en/products/detail/monnit-corporation/MNS2-9-W2-MS-IR/7776952)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
-    | Outputs a square wave                                             | More expensive      |
-    | Stable over operating temperature                                 | Slow shipping speed |
-    | Direct interface with PSoC (no external circuitry required) range |
+    | uses inferred to detect people                                    | More expensive      |
+    | Wireless                                                          | Larger item         |
+    | More coverage (1000ft)                                            | difficult to wire with system
 
-**Choice:** Option 2: CTX936TR-ND surface mount oscillator
+   3. MOTION DETECTION RADAR SWITCH
 
-**Rationale:** A clock oscillator is easier to work with because it requires no external circuitry in order to interface with the PSoC. This is particularly important because we are not sure of the electrical characteristics of the PCB, which could affect the oscillation of a crystal. While the shipping speed is slow, according to the website if we order this week it will arrive within 3 weeks.
+    ![](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ee01a59e-437c-4ba2-a87f-a9aa27466038" />
+)
+
+    * $50.26/each
+    * [link to product]([[https://protosupplies.com/product/hc-sr505-mini-pir-motion-sensing-module/](https://www.digikey.com/en/products/detail/innosent-gmbh/80-00000450/13182472)](https://www.digikey.com/en/products/detail/innosent-gmbh/80-00000450/13182472))
+
+    | Pros                                      | Cons                                                             |
+    | ----------------------------------------- | ---------------------------------------------------------------- |
+    | quick response time                       | Requires external components and support circuitry for interface |
+    | More accurate body heat reads             | moderately expensive                                             |
+    | can be used outdoors                      | requires more voltage
+
+**Choice:** Option 1: HC-SR505 PIR Motion Sensor Module
+
+**Rationale:** The data sheet provides a C code program that is Arduino compatible. Much more affordable and compact, they can be soldered or wired to a breadboard or circuit. The distance may be limited, but it is within reason if used inside.
