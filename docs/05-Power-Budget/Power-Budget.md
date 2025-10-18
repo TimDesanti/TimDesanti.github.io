@@ -3,9 +3,9 @@ title: Power Budget
 ---
 
 ## Overview
-Write a overview of what you did and why you did a Power Budget.
+Calculated the voltage it would need and produced based on the components I've chosen for the project. Gave a voltage budget of how much current I would need and have left over when choosing a power supply.
 
-> Capture your power budget as an image to display. Take time to get clean breaks and a well organized layout.
+> Capture your power budget as an image to display. Take time to get clean breaks and a well-organized layout.
 
 
 <img width="783" height="493" alt="Screenshot 2025-10-17 150524" src="https://github.com/user-attachments/assets/01442dd7-dfcc-4478-8078-f2e823d81501" />
@@ -16,7 +16,7 @@ Write a overview of what you did and why you did a Power Budget.
 
 ## Conclusions
 
-From the prepare Power Budget, .....
+From the prepared Power Budget, we would need a high-voltage source or a high-voltage power rail to allow the parts to function properly. The budget is mostly budget-friendly voltage-wise, besides the 12V regulator that will consume more electricity. I believe using a wall adapter will solve this problem, other than using a battery to increase its duration, and using an external battery as a backup source if the power shuts down in the home.  
 
 ## Resouces
 
