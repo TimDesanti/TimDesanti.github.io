@@ -2,77 +2,56 @@
 title: Component Selection Tim Desanti 105
 ---
 
-## Examples
 
-### Style 1
+**DC Motor**
 
-> This is the example found in the assignment, which uses more HTML
+1. STANDARD MOTOR 6600 RPM 12V
 
-*Table 1: Example component selection*
-
-**External Clock Module**
-
-| **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| ![](image1.png)<br>Option 1.<br> XC1259TR-ND surface mount crystal<br>$1/each<br>[link to product](http://www.digikey.com/product-detail/en/ECS-40.3-S-5PX-TR/XC1259TR-ND/827366)                 | \* Inexpensive[^1]<br>\* Compatible with PSoC<br>\* Meets surface mount constraint of project                                               | \* Requires external components and support circuitry for interface<br>\* Needs special PCB layout. |
-| ![](image3.png)<br>\* Option 2. <br>\* CTX936TR-ND surface mount oscillator <br>\* $1/each <br>\* [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940) | \* Outputs a square wave <br>\* Stable over operating temperature <br> \* Direct interface with PSoC (no external circuitry required) range | * More expensive <br>\* Slow shipping speed                                                         |
-
-**Choice:** Option 2: CTX936TR-ND surface mount oscillator
-
-**Rationale:** A clock oscillator is easier to work with because it requires no external circuitry in order to interface with the PSoC. This is particularly important because we are not sure of the electrical characteristics of the PCB, which could affect the oscillation of a crystal. While the shipping speed is slow, according to the website if we order this week it will arrive within 3 weeks.
-
-### Style 2
-
-> Also acceptable, more markdown friendly
-
-**Motion Sensor**
-
-1. HC-SR505 PIR Motion Sensor Module
-
-    ![HC-505-Mini-PIR-Motion-Sensor-Module](https://github.com/user-attachments/assets/eab76275-a83a-420e-9258-f99128310ef1)
+    <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c541ec66-888d-4dc2-bfef-134922af22f9" />
 
 
-    * $1.95/each
-    * [link to product](https://protosupplies.com/product/hc-sr505-mini-pir-motion-sensing-module/)
+
+    * $2.75/each
+    * [link to product](https://www.digikey.com/en/products/detail/sparkfun-electronics/11696/6163657)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
-    | Inexpensive                               | Requires external components and support circuitry for interface |
-    | Senses Body heat within 9ft-12ft          | Needs special PCB layout.                                        |
-    | Uses very low power                       | 
+    | Inexpensive                               | Not meant for high torque                                        |
+    | small in size                             | may need a torque gear ratio for heavier workloads               |
+    | Uses low power                            |                                                                  |
 
-2. ALTA WIRELESS INFRARED MOTION SE
+2. GEARMOTOR 200 RPM 3-6V DC
 
-    ![MFG_MNS2-9-W2-MS-IR_sml](https://github.com/user-attachments/assets/6a433689-7f32-4620-b8aa-2ef463277a93)
+    <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2ceb7257-6a29-4b6e-a94b-e67cd63d4f13" />
 
 
-    * $116.60/each
+    * $2.95/each
     * [Link to product](https://www.digikey.com/en/products/detail/monnit-corporation/MNS2-9-W2-MS-IR/7776952)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
-    | uses inferred to detect people                                    | More expensive      |
-    | Wireless                                                          | Larger item         |
-    | More coverage (1000ft)                                            | difficult to wire with system
+    | Low voltage use                                                   | More expensive      |
+    | Compact                                                           | Weak                |
+    | Simple wiring                                                     | Low RPM             |        
 
-   3. MOTION DETECTION RADAR SWITCH
+   3. SERVOMOTOR RC 4.8V
 
-    ![MFG_IMD-3000-Series_sml](https://github.com/user-attachments/assets/ff408c59-6127-48e3-9669-798a049a8b21)
+   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/90d04205-5d41-4f75-ae2f-dc2e91027256" />
 
 
-    * $50.26/each
-    * [link to product](https://www.digikey.com/en/products/detail/innosent-gmbh/80-00000450/13182472)]
+    * $3.62/each
+    * [link to product](https://www.digikey.com/en/products/detail/dfrobot/SER0006/7597224)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
-    | quick response time                       | Requires external components and support circuitry for interface |
-    | More accurate body heat reads             | moderately expensive                                             |
-    | can be used outdoors                      | requires more voltage
+    | quick response time                       | Have to create a program                                         |
+    | percise movement                          | moderately expensive                                             |
+    | programmable to move to certain positions | requires more voltage
 
-**Choice:** Option 1: HC-SR505 PIR Motion Sensor Module
+**Choice:** Option 1: STANDARD MOTOR 6600 RPM 12V
 
-**Rationale:** The data sheet provides a C code program that is Arduino compatible. Much more affordable and compact, they can be soldered or wired to a breadboard or circuit. The distance may be limited, but it is within reason if used inside.
-
+**Rationale:** Requires fewer programs to be made. It will rely on the sensors to function, which is what we want. Provides enough power to
+run its function at a lower cost.
 
 **Voltage regulator**
 
@@ -127,5 +106,5 @@ title: Component Selection Tim Desanti 105
     | PCB layout available                      | fixed output voltage
 
 **Choice:**  IC REG BUCK BOOST ADJ 1.5A 8SOIC
-**Rationale:** A familiar part we worked with, more compatible with the microcontroller, cheaper, and is more simple to wire and code. By having
+**Rationale:** A familiar part we worked with, more compatible with the microcontroller, cheaper, and simpler to wire and code. By having
 something we used before, it should save time working on a project, as it is a product that is not new to learn. 
