@@ -26,7 +26,7 @@ title: Component Selection Tim Desanti 105
 
 
     * $2.95/each
-    * [Link to product](https://www.digikey.com/en/products/detail/monnit-corporation/MNS2-9-W2-MS-IR/7776952)
+    * [Link to product](https://www.digikey.com/en/products/detail/adafruit-industries-llc/3777/8687221)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
