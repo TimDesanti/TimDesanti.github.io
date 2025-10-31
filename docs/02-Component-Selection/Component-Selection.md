@@ -108,3 +108,7 @@ run its function at a lower cost.
 **Choice:**  IC REG BUCK BOOST ADJ 1.5A 8SOIC
 **Rationale:** A familiar part we worked with, more compatible with the microcontroller, cheaper, and simpler to wire and code. By having
 something we used before, it should save time working on a project, as it is a product that is not new to learn. 
+
+## Overview Summary
+Microchip PIC18F57Q43 Curiosity Nano, Analog Input Sensor, H-Bridge Motor Driver, Green LED, and Connectors are parts that were given and worked on in class. The only unfamiliar part would be the DC motor that is most likely need a component selection. 
+
