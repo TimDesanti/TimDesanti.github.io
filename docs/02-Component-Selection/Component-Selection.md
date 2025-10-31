@@ -13,7 +13,7 @@ title: Component Selection Tim Desanti 105
 
 
     * $11.90/each
-    * [link to product](https://www.digikey.com/en/products/detail/sparkfun-electronics/11696/6163657)
+    * [link to product](https://www.digikey.com/en/products/detail/dfrobot/FIT0492-B/7087168?)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
