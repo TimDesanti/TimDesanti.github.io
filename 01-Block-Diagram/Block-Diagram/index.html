@@ -26,7 +26,7 @@
 
     
       
-        <title>Individal Block Diagram - EGR 304 Data Sheet Template</title>
+        <title>Individal Block Diagram for Rod Motor - EGR 304 Data Sheet Template</title>
       
     
     
@@ -90,7 +90,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#overview" class="md-skip">
+        <a href="#blind-slats-pcb-block-diagram" class="md-skip">
           Skip to content
         </a>
       
@@ -125,7 +125,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Individal Block Diagram
+              Individal Block Diagram for Rod Motor
             
           </span>
         </div>
@@ -471,7 +471,7 @@
           
   
   <span class="md-ellipsis">
-    Individal Block Diagram
+    Individal Block Diagram for Rod Motor
   </span>
   
 
@@ -482,7 +482,7 @@
         
   
   <span class="md-ellipsis">
-    Individal Block Diagram
+    Individal Block Diagram for Rod Motor
   </span>
   
 
@@ -502,18 +502,18 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#overview" class="md-nav__link">
+  <a href="#blind-slats-pcb-block-diagram" class="md-nav__link">
     <span class="md-ellipsis">
-      Overview
+      Blind Slats PCB Block Diagram
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#example-block-diagram" class="md-nav__link">
+  <a href="#overview" class="md-nav__link">
     <span class="md-ellipsis">
-      Example Block Diagram
+      Overview
     </span>
   </a>
   
@@ -800,18 +800,18 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#overview" class="md-nav__link">
+  <a href="#blind-slats-pcb-block-diagram" class="md-nav__link">
     <span class="md-ellipsis">
-      Overview
+      Blind Slats PCB Block Diagram
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#example-block-diagram" class="md-nav__link">
+  <a href="#overview" class="md-nav__link">
     <span class="md-ellipsis">
-      Example Block Diagram
+      Overview
     </span>
   </a>
   
@@ -840,23 +840,12 @@
   
 
 
-  <h1>Individal Block Diagram</h1>
+  <h1>Individal Block Diagram for Rod Motor</h1>
 
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/user-attachments/assets/18f1df6f-bee7-458c-b053-a36e08590fdf" data-desc-position="bottom"><img width="1272" height="1138" alt="image" src="https://github.com/user-attachments/assets/18f1df6f-bee7-458c-b053-a36e08590fdf"></a></p>
+<h2 id="blind-slats-pcb-block-diagram">Blind Slats PCB Block Diagram</h2>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/user-attachments/assets/ab09894e-b0c0-45e7-a95f-afb5fb72a084" data-desc-position="bottom"><img width="1278" height="1144" alt="image" src="https://github.com/user-attachments/assets/ab09894e-b0c0-45e7-a95f-afb5fb72a084"></a></p>
 <h2 id="overview">Overview</h2>
-<p>This needs to be updated with a brief purpose for having the block diagram.
-Things to mention are:
-* power levels
-* sensor
-* Actuator
-* team connections
-* Power source
-* ...
-The purpose of the block diagram is to geive rough
-To get some initial formatting help, one can view <a href="https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/basic-markdown-examples/">"here"</a> some basic techniques.</p>
-<h2 id="example-block-diagram">Example Block Diagram</h2>
-<p>Showing an example of how to import a screenshot of the block diagram created outside of git and brought into a page.</p>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="img width=&quot;1084&quot; height=&quot;972&quot; alt=&quot;image&quot; src=&quot;https://github.com/user-attachments/assets/af04eba8-8e85-4a5a-a52a-11d96f3b32ce&quot; /" data-desc-position="bottom"><img alt="Example of Indivial Block diagram " src="img width=&quot;1084&quot; height=&quot;972&quot; alt=&quot;image&quot; src=&quot;https://github.com/user-attachments/assets/af04eba8-8e85-4a5a-a52a-11d96f3b32ce&quot; /"></a></p>
+<p>This block diagram illustrates the system architecture for controlling a DC motor using the Microchip PIC18F57Q43 Curiosity Nano board. It shows how power, sensing, and actuation are distributed throughout the system. A 9V 3A unregulated power supply provides the main power, which is regulated to 5V (1.5A) for the microcontroller and control electronics. An analog sensor connected to the ADC input (RA0) provides input signals for feedback or control. The H-Bridge (FAN8100N) drives the motor (actuator) using PWM signals from the microcontroller. Green Led it to check if power is going through the stystem. It translate to a motor that will open and close the blinds depending on the singnals given from the other components.</p>
 
 
 
