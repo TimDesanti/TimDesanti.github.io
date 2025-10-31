@@ -6,7 +6,7 @@ title: Schematic Design
 
 This schematic is designed to allow a motor to open and close the blinds depending on the readings of the thermo sensor and light sensor(s) to determine whether sunlight should be let into the room or blocked off. It works with the other motor that will raise or lower the blinds depending on the same sensors and the readings. 
 
-**Figure ##:**
+**Figure 01:**
 <img width="1410" height="974" alt="image" src="https://github.com/user-attachments/assets/49b896bc-99c6-457a-9cf8-433fc8f730f1" />
 
 
