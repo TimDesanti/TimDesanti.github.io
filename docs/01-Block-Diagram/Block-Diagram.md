@@ -1,5 +1,5 @@
 ---
-title: Individal Block Diagram for Rod Motor
+title: Individal Block Diagram for Slat Motor
 tags: 
 - tag1
 - tag2
