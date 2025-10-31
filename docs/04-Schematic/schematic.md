@@ -4,9 +4,10 @@ title: Schematic
 
 ## Overview
 
-This schematic is design to support .... (highlight functionally, power, and controller).
+This schematic is designed to allow a motor to open and close the blinds depending on the readings of the thermo sensor and light sensor(s) to determine whether sunlight should be let into the room or blocked off. It works with the other motor that will raise or lower the blinds depending on the same sensors and the readings. 
 
-<img width="702" height="496" alt="schematic design-1" src="https://github.com/user-attachments/assets/be20caf2-259e-433a-b50e-7621a6e36a4a" />
+
+<img width="1844" height="1272" alt="image" src="https://github.com/user-attachments/assets/8e3b57fd-ea1b-4ffd-a86e-472eeb3b0bc2" />
 
 
 
@@ -15,6 +16,6 @@ This schematic is design to support .... (highlight functionally, power, and con
 
 ## Resouces
 
-The schematic as a PDF download is available [schematic design.pdf](https://github.com/user-attachments/files/23047380/schematic.design.pdf)
+The schematic as a PDF download is available [Schematic design_V2.pdf](https://github.com/user-attachments/files/23248664/Schematic.design_V2.pdf)
 , and the Zip folder of the project [Schematic Tim 105.zip](https://github.com/user-attachments/files/23047397/Schematic.Tim.105.zip)
 [schematic design.zip](https://github.com/user-attachments/files/23047409/schematic.design.zip)
