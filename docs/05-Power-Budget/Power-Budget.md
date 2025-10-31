@@ -24,5 +24,5 @@ From the prepared Power Budget, we would need a 12V power source or a 12V power 
 
 The power budget as a PDF download is available here, [Power Budget Example.pdf](https://github.com/user-attachments/files/23277122/Power.Budget.Example.pdf)
 
-), and a Microsoft Excel Sheet here, [Power Budget Example.xlsx](https://github.com/user-attachments/files/23277161/Power.Budget.Example.xlsx)
+, and a Microsoft Excel Sheet here, [Power Budget Example.xlsx](https://github.com/user-attachments/files/23277161/Power.Budget.Example.xlsx)
 
