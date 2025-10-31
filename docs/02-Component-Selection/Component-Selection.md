@@ -5,20 +5,21 @@ title: Component Selection Tim Desanti 105
 
 **DC Motor**
 
-1. STANDARD MOTOR 6600 RPM 12V
+1. GEARMOTOR 100 RPM 12V METAL
 
-    <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c541ec66-888d-4dc2-bfef-134922af22f9" />
+   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/a2ebb640-b700-45e1-a3cc-9bf42f43ed35" />
 
 
 
-    * $2.75/each
+
+    * $11.90/each
     * [link to product](https://www.digikey.com/en/products/detail/sparkfun-electronics/11696/6163657)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
-    | Inexpensive                               | Not meant for high torque                                        |
-    | small in size                             | may need a torque gear ratio for heavier workloads               |
-    | Uses low power                            |                                                                  |
+    | moderly expensive                         | meant for high torque                                            |
+    | small in size                             | Might be too slow                                                |
+    | meant for high torque                     | Size may not be as compact as wanted                             |
 
 2. GEARMOTOR 200 RPM 3-6V DC
 
@@ -48,10 +49,10 @@ title: Component Selection Tim Desanti 105
     | percise movement                          | moderately expensive                                             |
     | programmable to move to certain positions | requires more voltage
 
-**Choice:** Option 1: STANDARD MOTOR 6600 RPM 12V
+**Choice:** Option 1: GEARMOTOR 100 RPM 12V METAL
 
 **Rationale:** Requires fewer programs to be made. It will rely on the sensors to function, which is what we want. Provides enough power to
-run its function at a lower cost.
+run its function at a reasonable cost.
 
 **Voltage regulator**
 
