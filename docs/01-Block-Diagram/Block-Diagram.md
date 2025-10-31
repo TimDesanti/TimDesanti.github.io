@@ -1,27 +1,18 @@
 ---
-title: Individal Block Diagram
+title: Individal Block Diagram for Rod Motor
 tags: 
 - tag1
 - tag2
 ---
 
-<img width="1272" height="1138" alt="image" src="https://github.com/user-attachments/assets/18f1df6f-bee7-458c-b053-a36e08590fdf" />
+
+## Blind Slats PCB Block Diagram 
+<img width="1278" height="1144" alt="image" src="https://github.com/user-attachments/assets/ab09894e-b0c0-45e7-a95f-afb5fb72a084" />
+
 
 ## Overview
-This needs to be updated with a brief purpose for having the block diagram.
-Things to mention are:
-* power levels
-* sensor
-* Actuator
-* team connections
-* Power source
-* ...
-The purpose of the block diagram is to geive rough
-To get some initial formatting help, one can view ["here"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/basic-markdown-examples/) some basic techniques.
+This block diagram illustrates the system architecture for controlling a DC motor using the Microchip PIC18F57Q43 Curiosity Nano board. It shows how power, sensing, and actuation are distributed throughout the system. A 9V 3A unregulated power supply provides the main power, which is regulated to 5V (1.5A) for the microcontroller and control electronics. An analog sensor connected to the ADC input (RA0) provides input signals for feedback or control. The H-Bridge (FAN8100N) drives the motor (actuator) using PWM signals from the microcontroller. Green Led it to check if power is going through the stystem. It translate to a motor that will open and close the blinds depending on the singnals given from the other components.
 
 
-## Example Block Diagram 
-Showing an example of how to import a screenshot of the block diagram created outside of git and brought into a page.
 
-![Example of Indivial Block diagram ](<img width="1084" height="972" alt="image" src="https://github.com/user-attachments/assets/af04eba8-8e85-4a5a-a52a-11d96f3b32ce" />
-)
+
