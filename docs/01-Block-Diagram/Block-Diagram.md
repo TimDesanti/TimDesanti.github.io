@@ -14,7 +14,7 @@ Things to mention are:
 * team connections
 * Power source
 * ...
-
+The purpose of the block diagram is to geive rough
 To get some initial formatting help, one can view ["here"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/basic-markdown-examples/) some basic techniques.
 
 
