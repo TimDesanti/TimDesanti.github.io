@@ -3,7 +3,7 @@ title: Power Budget
 ---
 
 ## Overview
-Calculated the voltage and current usage for the chosen compenents. Gave a voltage budget of how much current the components would need and show the remaining current when choosing a power supply.
+Calculated the voltage and current usage for the chosen components. Gave a voltage budget of how much current the components would need and show the remaining current when choosing a power supply. The chosen components were the PIC18F57Q43 microcontroller, STANDARD MOTOR 6600 RPM 12V, and a IC REG LINEAR 5V 1.5A TO220 voltage regulator.
 
 
 
