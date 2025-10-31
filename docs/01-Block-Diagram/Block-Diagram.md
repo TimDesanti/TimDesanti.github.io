@@ -5,6 +5,8 @@ tags:
 - tag2
 ---
 
+<img width="1272" height="1138" alt="image" src="https://github.com/user-attachments/assets/18f1df6f-bee7-458c-b053-a36e08590fdf" />
+
 ## Overview
 This needs to be updated with a brief purpose for having the block diagram.
 Things to mention are:
