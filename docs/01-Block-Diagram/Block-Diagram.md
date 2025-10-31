@@ -1,6 +1,6 @@
 ---
 title: Individal Block Diagram
-tags:
+tags: 
 - tag1
 - tag2
 ---
