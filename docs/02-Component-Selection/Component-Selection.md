@@ -47,7 +47,8 @@ title: Component Selection Tim Desanti 105
     | ----------------------------------------- | -------------------------------------------------------------- |
     | quick response time                       | Have to create a program                                       |
     | percise movement                          | moderately expensive                                           |
-    | programmable to move to certain positions | requires more voltage
+    | programmable to move to certain positions | requires more voltage                                          |
+   
 
 **Choice:** Option 1: GEARMOTOR 100 RPM 12V METAL
 
@@ -63,6 +64,7 @@ run its function at a reasonable cost.
 
     * $0.29/each
     * [link to product](https://www.digikey.com/en/products/detail/diodes-incorporated/AZ34063UMTR-G1/4471007)
+      
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
@@ -74,7 +76,7 @@ run its function at a reasonable cost.
 
 2. IC REG LINEAR 5V 1.5A TO220
 
-    ![497~TO220-3TO220AB~~3_sml](https://github.com/user-attachments/assets/287a036d-0502-41a2-8303-bae58bfbc862)
+    ![](https://github.com/user-attachments/assets/287a036d-0502-41a2-8303-bae58bfbc862)
 
 
     * $0.50/each
