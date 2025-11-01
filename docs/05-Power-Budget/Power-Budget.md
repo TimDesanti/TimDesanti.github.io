@@ -18,7 +18,7 @@ Calculated the voltage and current usage for the chosen components. Gave a volta
 
 ## Conclusions
 
-From the prepared Power Budget, we would need a 12V power source or a 12V power rail to allow the parts to function properly. The budget is mostly budget-friendly voltage-wise, besides the 12V regulator that will consume more electricity. I believe using a wall adapter will solve this problem, other than using a battery to increase its duration, and using an external battery as a backup source if the power shuts down in the home.  
+From the prepared Power Budget, we would need a 12V power source and a 12V power rail to allow the parts to function properly. The budget is mostly budget-friendly voltage-wise, besides the 12V regulator and motor that will consume more electricity. I believe using a wall adapter will solve this problem, other than using a battery to increase its duration, and using an external battery as a backup source if the power shuts down in the home.  
 
 ## Resouces
 
