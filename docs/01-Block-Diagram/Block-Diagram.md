@@ -10,7 +10,8 @@ This block diagram illustrates the system architecture for controlling a DC moto
 
 
 ## Blind Slats PCB Block Diagram 
-<img width="1278" height="1168" alt="image" src="https://github.com/user-attachments/assets/814866d6-a89d-473a-ba67-af7a2eb57cca" />
+<img width="1274" height="1158" alt="image" src="https://github.com/user-attachments/assets/30b9696d-8eb2-4841-80f3-8173a1732f59" />
+
 
 
 
