@@ -107,6 +107,7 @@ run its function at a reasonable cost.
     | PCB layout available                      | fixed output voltage
 
 **Choice:**  IC REG LINEAR 5V 1.5A TO220
+
 **Rationale:** A familiar part we worked with, more compatible with the microcontroller, cheaper, and simpler to wire and code. By having
 something we used before, it should save time working on a project, as it is a product that is not new to learn. 
 
