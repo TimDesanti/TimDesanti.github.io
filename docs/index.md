@@ -28,6 +28,6 @@ The motor control subsystem operates a small 12 V DC brushed motor through an H-
 My part of the project focuses on designing and constructing the motor control subsystem that physically opens and closes the blinds based on input from the main control unit. It will rely on the other subsystems to determine how it will operate.
 
 
-To review the details listed of the material used to construct the subsection, you can review it in the ["BOM"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/03-BOM/BOM/) section of the datasheet.
+To review the details listed of the material used to construct the subsection, you can review it in the  section of the datasheet.
 
 For all the sections
