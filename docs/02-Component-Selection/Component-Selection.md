@@ -68,7 +68,7 @@ run its function at a reasonable cost.
     | ----------------------------------------- | ---------------------------------------------------------------- |
     | Inexpensive                               | Requires external components and support circuitry for interface |
     | minimum number of external components.    |                                                                  |
-    | built-in timer                            | uses more than 3V to operate
+    | built-in timer                            | uses more than 3V to operate                                     |
 
 
 
@@ -111,5 +111,5 @@ run its function at a reasonable cost.
 something we used before, it should save time working on a project, as it is a product that is not new to learn. 
 
 ## Overview Summary
-Microchip PIC18F57Q43 Curiosity Nano, Analog Input Sensor, H-Bridge Motor Driver, Green LED, and Connectors are parts that were given and worked on in class. The only unfamiliar part would be the DC motor that is most likely need a component selection. 
+Microchip PIC18F57Q43 Curiosity Nano, Analog Input Sensor, H-Bridge Motor Driver, Green LED, and Connectors are parts that were given and worked on in class. The only unfamiliar part would be the DC motor, which will need a component selection. 
 
