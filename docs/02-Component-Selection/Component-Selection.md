@@ -15,11 +15,11 @@ title: Component Selection Tim Desanti 105
     * $11.90/each
     * [link to product](https://www.digikey.com/en/products/detail/dfrobot/FIT0492-B/7087168?)
 
-    | Pros                                      | Cons                                                             |
-    | ----------------------------------------- | ---------------------------------------------------------------- |
-    | moderly expensive                         | meant for high torque                                            |
-    | small in size                             | Might be too slow                                                |
-    | meant for high torque                     | Size may not be as compact as wanted                             |
+    | Pros                                      | Cons                                                           |
+    | ----------------------------------------- | -------------------------------------------------------------- |
+    | moderly expensive                         | meant for high torque                                          |
+    | small in size                             | Might be too slow                                              |
+    | meant for high torque                     | Size may not be as compact as wanted                           |
 
 2. GEARMOTOR 200 RPM 3-6V DC
 
@@ -43,10 +43,10 @@ title: Component Selection Tim Desanti 105
     * $3.62/each
     * [link to product](https://www.digikey.com/en/products/detail/dfrobot/SER0006/7597224)
 
-    | Pros                                      | Cons                                                             |
-    | ----------------------------------------- | ---------------------------------------------------------------- |
-    | quick response time                       | Have to create a program                                         |
-    | percise movement                          | moderately expensive                                             |
+    | Pros                                      | Cons                                                           |
+    | ----------------------------------------- | -------------------------------------------------------------- |
+    | quick response time                       | Have to create a program                                       |
+    | percise movement                          | moderately expensive                                           |
     | programmable to move to certain positions | requires more voltage
 
 **Choice:** Option 1: GEARMOTOR 100 RPM 12V METAL
