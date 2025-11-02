@@ -13,8 +13,8 @@ PCB Back Layer:
 
 
 
-[PCB_TimDesantiPDF.pdf](https://github.com/user-attachments/files/23293220/PCB_TimDesantiPDF.pdf),
+[PCB_TimDesantiPDF.pdf](https://github.com/user-attachments/files/23293220/PCB_TimDesantiPDF.pdf)
 
-[PCB design Zip](https://github.com/user-attachments/files/23293225/Schematic.design_V2.zip),
+[PCB design Zip](https://github.com/user-attachments/files/23293225/Schematic.design_V2.zip)
 
 [Custom Footprints](https://github.com/user-attachments/files/23293378/Schematic.design_V2.zip)
