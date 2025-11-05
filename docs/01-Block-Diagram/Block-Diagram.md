@@ -10,7 +10,8 @@ This block diagram illustrates the system architecture for controlling a DC moto
 
 
 ## Blind Slats PCB Block Diagram 
-<img width="1274" height="1158" alt="image" src="https://github.com/user-attachments/assets/30b9696d-8eb2-4841-80f3-8173a1732f59" />
+
+<img width="741" height="901" alt="Individual Block EGR304 TND drawio" src="https://github.com/user-attachments/assets/d1fc3d9e-a973-4d93-8bf1-afc0cce7d744" />
 
 
 
