@@ -22,7 +22,8 @@ The schematic as PDF is downloadable, [Schematic design_V2.pdf](https://github.c
 
 
 
-, and the Zip folder of the project [Schematic design_V2.zip](https://github.com/user-attachments/files/23277498/Schematic.design_V2.zip)
+, and the Zip folder of the project, [Schematic.design_V2.zip](https://github.com/user-attachments/files/23379198/Schematic.design_V2.zip)
+
 
 
 
