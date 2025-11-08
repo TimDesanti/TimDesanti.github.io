@@ -16,6 +16,8 @@ PCB Back Layer:
 
 [PCB TimDesanti PDF](https://github.com/user-attachments/files/23293220/PCB_TimDesantiPDF.pdf)
 
-[PCB Design Zip](https://github.com/user-attachments/files/23293225/Schematic.design_V2.zip)
+[SCHEMATIC_DESIGN_PCB.zip](https://github.com/user-attachments/files/23428686/SCHEMATIC_DESIGN_PCB.zip)
 
-[Custom Footprints](https://github.com/user-attachments/files/23293378/Schematic.design_V2.zip)
+[Custom Footprints](https://github.com/user-attachments/files/23429808/SCHEMATIC_DESIGN_PCB.zip)
+
+[Gerber Files](https://github.com/user-attachments/files/23428698/Schematic.design_V2grb.zip)
