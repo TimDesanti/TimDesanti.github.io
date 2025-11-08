@@ -8,7 +8,8 @@ This schematic is designed to allow a motor to open and close the blinds dependi
 
 **Figure 01:**
 
-<img width="1442" height="1002" alt="image" src="https://github.com/user-attachments/assets/129b43a0-f7e0-4f03-a9a0-55d25bc9998f" />
+<img width="1558" height="1076" alt="image" src="https://github.com/user-attachments/assets/f24213cd-f4ee-4950-8040-936b03da38e6" />
+
 
 
 
