@@ -5,18 +5,19 @@ title: Component Selection Tim Desanti 105
 
 # **DC Motor**
 
-1. **GEARMOTOR 100 RPM 12V METAL**
+1. **GEARMOTOR 35 RPM 12V MIRCO METAL**
 
-   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/a2ebb640-b700-45e1-a3cc-9bf42f43ed35" />
+   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/182eab25-9bff-4002-9039-fb67696d1577" />
 
-   * $11.90/each  
-   * [Link to product](https://www.digikey.com/en/products/detail/dfrobot/FIT0492-B/7087168?)
+
+   * $37.95/each  
+   * [Link to product](https://www.digikey.com/en/products/detail/pololu/3046/10450048)
 
    | Pros              | Cons                                |
    | ----------------- | ----------------------------------- |
-   | Moderately priced | Meant for high torque               |
+   | 12v               | Expensive                           |
    | Small in size     | Might be too slow                   |
-   | High torque       | Size may not be as compact as wanted |
+   | High torque       | Size may not be as compact as wanted|
 
 ---
 
@@ -50,10 +51,10 @@ title: Component Selection Tim Desanti 105
 
 ---
 
-**Choice:** Option 1 — *GEARMOTOR 100 RPM 12V METAL*
+**Choice:** Option 1 — *GEARMOTOR 35 RPM 12V MICRO METAL*
 
 **Rationale:**  
-Requires fewer programs to be made. It will rely on the sensors to function, which is what we want. Provides enough power to run its function at a reasonable cost.
+Requires fewer programs to be made. It will rely on the sensors to function, which is what we want. Provides enough power to run its function at a reasonable cost. High Torque.
 
 ---
 
