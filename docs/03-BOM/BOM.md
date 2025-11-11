@@ -16,10 +16,7 @@ For context:
 
 
 Bill of Materials for the schematic can be seen here: 
-
 [BOMschematic design.csv](https://github.com/user-attachments/files/23441649/BOMschematic.design.csv)
-
-
 
 
 
