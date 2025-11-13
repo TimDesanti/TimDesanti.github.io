@@ -11,9 +11,10 @@ This block diagram illustrates the system architecture for controlling a DC moto
 
 ## Motor PCB Block Diagram 
 
-<img width="1178" height="1232" alt="image" src="https://github.com/user-attachments/assets/9731e8f4-bb93-4758-a26a-ee76d66fad04" />
+
+<img width="742" height="901" alt="Individual Block EGR304 TND drawio (2)" src="https://github.com/user-attachments/assets/e6e9d77b-5c36-4159-8f13-5aba6891c8de" />
 
 
 
 
-
+[Individual Block EGR304 TND.drawio](https://github.com/user-attachments/files/23535826/Individual.Block.EGR304.TND.drawio)
