@@ -1,4 +1,4 @@
----
+[Individual Block EGR304 TND (1).drawio](https://github.com/user-attachments/files/23535889/Individual.Block.EGR304.TND.1.drawio)[Individual Block EGR304 TND (1).drawio](https://github.com/user-attachments/files/23535882/Individual.Block.EGR304.TND.1.drawio)---
 title: Individual Block Diagram for Slat Motor
 tags: 
 - tag1
@@ -16,5 +16,7 @@ This block diagram illustrates the system architecture for controlling a DC moto
 
 
 
+[Uploading Individual Block EGR304 TND (1).drawio…]()
 
-[Individual Block EGR304 TND.drawio](https://github.com/user-attachments/files/23535826/Individual.Block.EGR304.TND.drawio)
+
+
