@@ -22,5 +22,5 @@ PCB Back Layer:
 
 [ZIP File With Footprints](https://github.com/user-attachments/files/23468088/MotorSchematicDesign.zip)
 
-[Gerber Files](https://github.com/user-attachments/files/23468075/TD.PCB.peralta.submit.zip)
+[Gerber File](https://github.com/user-attachments/files/23640750/PCB.MotorControl.Desanti.zip)
 
