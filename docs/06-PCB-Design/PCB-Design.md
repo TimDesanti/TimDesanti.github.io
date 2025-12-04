@@ -2,7 +2,7 @@ title: PCB Design
 ---
 
 ## Overview
-This PCB design contains all the components from the schematic design. The motor will have female header pins to allow a custom length from the board to wherever it needs to be placed. Additionally, the microcontroller footprint will also have female headers, as it was already constructed due to breadboarding.
+This PCB design contains all the components from the schematic design. The motor will have female header pins to allow a custom length from the board to wherever it needs to be placed. Additionally, the microcontroller footprint will also have female headers, as it was already constructed due to my breadboarding.
 
 PCB Front Layer:
 <img width="1840" height="1266" alt="image" src="https://github.com/user-attachments/assets/95730f11-5946-48b7-b9f8-c316ab4ac70c" />
