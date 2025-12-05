@@ -58,63 +58,65 @@ Requires fewer programs to be made. It will rely on the sensors to function, whi
 
 ---
 
-# **Voltage Regulator**
+# **H-Bridge Motor**
 
-1. **IC REG BUCK BOOST ADJ 1.5A 8SOIC**
+1. **IC MOTOR DRIVER 12V-52V 24SO**
 
-   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/79a5d0b8-587e-43c4-ab3a-1e7bf68ff89e" />
+  ![24-SOIC_sml](https://github.com/user-attachments/assets/e3ee7cb9-d6fa-422f-990f-9d7dc340104b)
 
-   * $0.29/each  
-   * [Link to product](https://www.digikey.com/en/products/detail/diodes-incorporated/AZ34063UMTR-G1/4471007)
+
+   * $6.16/each  
+   * [Link to product ](https://www.digikey.com/en/products/detail/stmicroelectronics/L6235D013TR/715921)
+   | Pros                      | Cons                                                             |
+   | -------------------------- | ---------------------------------------------------------------- |
+   | Inexpensive                | Requires external components and support circuitry               |
+   | For large voltage    |      complicated configuration                                                          |
+   | 12V             | surface mount                                    |
+
+---
+
+2. **L9110H H-BRIDGE 8DIP MOTOR DRIVE**
+
+   ![8-DIP_sml](https://github.com/user-attachments/assets/ff2741e7-e249-4a49-bef6-e16c40165093)
+
+
+   * $1.50/each  
+   * [Link to product](https://www.digikey.com/en/products/detail/adafruit-industries-llc/4489/11594498?s=N4IgTCBcDaILYHsAuCBOACAxggdk1CANugIYAmJAZqgK4CWSIAugL5A)
 
    | Pros                      | Cons                                                             |
    | -------------------------- | ---------------------------------------------------------------- |
    | Inexpensive                | Requires external components and support circuitry               |
-   | Few external components    |                                                                  |
-   | Built-in timer             | Uses more than 3V to operate                                     |
+   | easy to set up    | can only run 1 motor                                 |
+   | 8-dip       |                                                                  |
 
 ---
 
-2. **IC REG LINEAR 5V 1.5A TO220**
+3. **IC MTR DRV BIPLR 12-55V TO220-11**
 
-   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/287a036d-0502-41a2-8303-bae58bfbc862" />
+  
+![14-TO-220-11 nonisolated staggered and bent_sml](https://github.com/user-attachments/assets/3787d342-8237-49d6-bdc5-6a3a4398d1d2)
 
-   * $0.50/each  
-   * [Link to product](https://www.digikey.com/en/products/detail/stmicroelectronics/L7805CV/585964)
-
-   | Pros                      | Cons                                                             |
-   | -------------------------- | ---------------------------------------------------------------- |
-   | Inexpensive                | Requires external components and support circuitry               |
-   | Few external components    | Requires a minimum voltage of 5V                                 |
-   | PCB layout available       |                                                                  |
-
----
-
-3. **IC LNR REG CTRLR 1OUT 8DIP**
-
-   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/1271e721-f886-48c1-9324-939288974429" />
-
-   * $8.52/each  
-   * [Link to product](https://www.digikey.com/en/products/detail/analog-devices-inc/LT1575CN8-5-PBF/962848)
+   * $28.26/each  
+   * [Link to product](https://www.digikey.com/en/products/detail/texas-instruments/LMD18201T-NOPB/148220)
 
    | Pros                                                   | Cons                                                             |
    | ------------------------------------------------------ | ---------------------------------------------------------------- |
-   | Low voltage drops                                      | Requires external components and support circuitry               |
-   | Accommodates most microprocessor power supply voltages | Requires a minimum voltage of 5V                                 |
-   | PCB layout available                                   | Fixed output voltage                                             |
+   | ECAD                                                   | Expensive                                                         |
+   | 12V-55V                                                | Complicated wiring                                               |
+   | Can run 2 different motors                             | Fixed output voltage                                             |
 
 ---
 
-**Choice:** Option 2 - *IC REG LINEAR 5V 1.5A TO220*
+**Choice:** Option 2 - *L9110H H-BRIDGE 8DIP MOTOR DRIVE*
 
 **Rationale:**  
-A familiar part we worked with, more compatible with the microcontroller, cheaper, and simpler to wire and code. By having something we used before, it should save time working on the project, as it is a product that is not new to learn.
+A simple H-bridge for 1 motor, which is being used for the system. Easier to wire up and to code. Small and inexpensive, great for simple coding and space constraints. 
 
 ---
 
 ## **Overview Summary**
 
-Microchip PIC18F57Q43 Curiosity Nano, Analog Input Sensor, H-Bridge Motor Driver, Green LED, and Connectors are parts that were given and worked on in class.  
-The only unfamiliar part would be the DC motor, which will need a component selection.
+Microchip PIC18F57Q43 Curiosity Nano, Analog Input Sensor, Green LED, and Connectors are parts that were given and worked on in class.  
+The only unfamiliar part would be the DC motor and the H-Bridge, as they are not familiar components but are used in the same way as components we have worked on in the classroom.
 
 
