@@ -114,9 +114,72 @@ A simple H-bridge for 1 motor, which is being used for the system. Easier to wir
 
 ---
 
+
+
+
+# **Wall Adapter**
+
+1. **AC/DC DESKTOP ADAPTER 12V 18W**
+
+   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/288bce93-949f-4110-a2af-7e8b4096dc4b" />
+
+
+
+   * $22.01/each  
+   * [Link to product](https://www.digikey.com/en/products/detail/sl-power-advanced-energy/ME20A1203F01/5400149)
+
+   | Pros              | Cons                                |
+   | ----------------- | ----------------------------------- |
+   | 12v               | Expensive                           |
+   | 1.5A              | Looks more for computers or more techincal electronic devices |
+   | Efficiency level VI | Size of barrel jack does not seem to fit in the barrel jack port used in class |
+
+---
+
+2. **AC/DC WALL MOUNT ADAPTER 12V 18W**
+
+   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/baf549e1-90a7-46e0-8ee7-6501b05325f2" />
+
+
+   * $8.32/each  
+   * [Link to product](https://www.digikey.com/en/products/detail/tensility-international-corp/16-00142/10324429)
+
+   | Pros            | Cons          |
+   | ---------------- | ------------- |
+   | 12V              | barrel jack is short| 
+   | cheaper          | bulky wall plug     |
+   | more for non electronic devices    |      |
+
+---
+
+3. **AC/DC WALL MOUNT ADAPTER 12V 18W**
+
+   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/fac135ed-0da5-4944-98ac-d7aa6f4b4a69" />
+
+
+   * $12.17/each  
+   * [Link to product](https://www.digikey.com/en/products/detail/triad-magnetics/WSU120-1500/3094919)
+
+   | Pros                                  | Cons                         |
+   | ------------------------------------- | ---------------------------  |
+   | 12V                                   | ground and power are flipped |
+   | exact dimensions for barrel jack port | wall plug a bit wide         |
+   | not so expensive                      | no LED indicator             |
+
+---
+
+**Choice:** Option 3 — *AC/DC WALL MOUNT ADAPTER 12V 18W*
+
+**Rationale:**  
+Has the exact barrel jack input dimanesitons for the barrel jack port. The ground and power are flipped so may need to either flip the physicaL barrel jack port or flip it in the schematic and pcb. Rather phyically switch it as im concerned about the third pin on the barrel jack port. 
+
+---
+
+
+
 ## **Overview Summary**
 
-Microchip PIC18F57Q43 Curiosity Nano, Analog Input Sensor, Green LED, and Connectors are parts that were given and worked on in class.  
-The only unfamiliar part would be the DC motor and the H-Bridge, as they are not familiar components but are used in the same way as components we have worked on in the classroom.
+Microchip PIC18F57Q43 Curiosity Nano, Barrel jack port, Green LED, and Connectors are parts that were given and worked on in class.  
+The only unfamiliar part would be the DC motor, wall adapter, and the H-Bridge, as they are not familiar components but are used in the same way as components we have worked on in the classroom.
 
 
