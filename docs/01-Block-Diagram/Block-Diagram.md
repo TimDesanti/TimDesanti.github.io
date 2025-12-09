@@ -2,7 +2,7 @@ title: Individual Block Diagram for Slat Motor
 
 
 ## Overview
-This block diagram illustrates the system architecture for controlling a DC motor using the Microchip PIC18F57Q43 Curiosity Nano board. It shows how power, sensing, and actuation are distributed throughout the system. A 12V 3A unregulated power supply provides the main power, which is regulated to 12V (1.5A) for the microcontroller and control electronics. An analog sensor connected to the ADC input (RA0) provides input signals for feedback or control. The H-Bridge (FAN8100N) drives the motor (actuator) using PWM signals from the microcontroller. Green LED to check if power is going through the system. It translates to a motor that will open and close the blinds depending on the signals given from the other components.
+This block diagram illustrates the system architecture for controlling a DC motor using the Microchip PIC18F57Q43 Curiosity Nano board. It shows how power, sensing, and actuation are distributed throughout the system. A 12V 1.5A unregulated power supply provides the main power, which is regulated to 12V (1.5A) for the major components and a  voltage regulator that powers down the voltage to 5V to safely provide power to the PIC to send and receive signals. An analog sensor connected to the ADC input (RA0) provides input signals for feedback or control. The H-Bridge (4489) drives the motor (actuator) using PWM signals from the microcontroller. Green LED to check if power is going through the system. It translates to a motor that will open and close the blinds depending on the signals given from the other components.
 
 
 ## Motor PCB Block Diagram 
