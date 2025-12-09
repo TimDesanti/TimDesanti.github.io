@@ -11,9 +11,19 @@ PCB Front Layer:
 
 
 
-
 PCB Back Layer:
 <img width="1396" height="972" alt="image" src="https://github.com/user-attachments/assets/dbd6ce28-024e-4bb8-810c-edcb87d79811" />
+
+
+
+Finished Design: 
+
+
+
+![image0 (2)](https://github.com/user-attachments/assets/f4a6360f-8ce9-4098-b3ef-2dcfd03dd174)
+
+
+![image1](https://github.com/user-attachments/assets/825afb2f-b23a-4559-8ca9-83480c9cbc03)
 
 
 
@@ -21,6 +31,8 @@ PCB Back Layer:
 
 
 [Front & Back.pdf](https://github.com/user-attachments/files/23973481/Front.Back.pdf)
+
+[3D Model PCB.pdf](https://github.com/user-attachments/files/24048644/3D.Model.PCB.pdf)
 
 [ZIP File With Footprints](https://github.com/user-attachments/files/23468088/MotorSchematicDesign.zip)
 
