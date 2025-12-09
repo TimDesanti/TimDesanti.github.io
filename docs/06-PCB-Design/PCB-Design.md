@@ -2,7 +2,7 @@ title: PCB Design
 ---
 
 ## Overview
-This PCB design includes all components from the schematic. The motor will have male-male header pins sonnected to female-male jumper cables to allow a custom length from the board to its final location. Additionally, the microcontroller footprint will also have male-male headers, as it was already constructed due to breadboarding, its will be attached to the PCB with female-male headers to allow easy disconnection.
+This PCB design includes all components from the schematic. The motor will have male-male header pins sonnected to female-male jumper cables to allow a custom length from the board to its final location. Additionally, the microcontroller footprint will also have male-male header pins, as it was already constructed due to breadboarding, its will be attached to the PCB with female-male headers to allow easy disconnection. And finally the 2x4 conecctors will have male-male header pins to allow the ribbon cable to be connected without extra wire and pins and the other 2x4 will have male-male header pins to allow easy assembly if any current ports used end up not working.
 
 PCB Front Layer:
 <img width="1430" height="982" alt="image" src="https://github.com/user-attachments/assets/904cf372-10e3-4e94-a5d3-4b8d1845ff9d" />
